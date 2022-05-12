@@ -2,6 +2,8 @@
 
 For questions please reach out at either ambray@iastate.edu or austinbray1999@gmail.com
 
+Raw data files are too large for GitHub, but can be provided as needed. 
+
 Key files within this directory include: 
 
 Create_Data.py is technique to collect images and keystrokes from GTA.
