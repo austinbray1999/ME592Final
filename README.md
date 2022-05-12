@@ -16,3 +16,4 @@ Run_Model_In_Game.py uses trained model to drive vehicle in GTA.
 
 TestingScreenYoloV5.py was utilized for image detection tasks we explored. This code is from the existing YOLO project. 
 
+lane_assist.py us utilized to map lane lines onto images recorded playing GTA. 
